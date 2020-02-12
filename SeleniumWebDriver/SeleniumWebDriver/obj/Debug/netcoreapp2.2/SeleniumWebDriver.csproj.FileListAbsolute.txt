@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\netcoreapp2.2\SeleniumWebDriver.deps.json
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\netcoreapp2.2\SeleniumWebDriver.runtimeconfig.json
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\netcoreapp2.2\SeleniumWebDriver.runtimeconfig.dev.json
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\netcoreapp2.2\SeleniumWebDriver.dll
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\netcoreapp2.2\SeleniumWebDriver.pdb
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\netcoreapp2.2\SeleniumWebDriver.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\netcoreapp2.2\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\netcoreapp2.2\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\netcoreapp2.2\SeleniumWebDriver.dll
+C:\Users\User\Desktop\Test_automation-master\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\netcoreapp2.2\SeleniumWebDriver.pdb
